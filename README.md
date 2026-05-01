@@ -101,7 +101,7 @@ python manage.py runserver
 ##  Demo
 
 A short walkthrough of the API and code:
-👉 (Add your Loom video link here)
+👉 https://www.loom.com/share/106977b6bf8340a78b1dfe70e553c308
 
 ---
 
